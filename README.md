@@ -1,6 +1,6 @@
 # Feature Prioritization and Product Roadmap for an EdTech Platform
 
-A product roadmap for a **hypothetical** EdTech platform, built as a course project. Requirements from three stakeholder groups (students, instructors and administrators) are combined into a 25-item backlog, scored with RICE, classified with MoSCoW, and turned into a 12-initiative plan across three quarters with success metrics for each initiative.
+A product roadmap for a **hypothetical** EdTech platform, built as an independent project. Requirements from three stakeholder groups (students, instructors and administrators) are combined into a 25-item backlog, scored with RICE, classified with MoSCoW, and turned into a 12-initiative plan across three quarters with success metrics for each initiative.
 
 > **Data note:** the platform, stakeholder counts, scores, baselines and targets are all hypothetical planning figures. The project shows the prioritization workflow.
 
@@ -52,7 +52,7 @@ python scripts/make_charts.py 03_Feature_Prioritization_Roadmap.xlsx charts
 
 ## Changes in this version
 
-- Labelled the workbook as a course project, and the stakeholder counts, baselines and targets as hypothetical
+- Labelled the workbook as an independent project, and the stakeholder counts, baselines and targets as hypothetical
 - Filled in the empty Rank column on `RICE_MoSCoW_Scoring`
 - Stated the overall goal consistently as +15 percentage points (62% to 77%)
 - Added four charts, the chart script and `requirements.txt`
